@@ -29,7 +29,10 @@
 						"type": "BinarySource",
 						"storeSettings": {
 							"type": "AzureBlobStorageReadSettings",
-							"recursive": true
+							"recursive": true,
+							"modifiedDatetimeStart": "2023-08-23T00:00:00.000Z",
+							"modifiedDatetimeEnd": "2023-08-23T06:05:05.000Z",
+							"deleteFilesAfterCompletion": false
 						},
 						"formatSettings": {
 							"type": "BinaryReadSettings"

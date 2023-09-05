@@ -114,8 +114,8 @@
 			}
 		],
 		"parameters": {
-			"Control_Table_Name": {
-				"type": "String"
+			"testing": {
+				"type": "string"
 			},
 			"Control_Table_Schema_PartitionID": {
 				"type": "String"
